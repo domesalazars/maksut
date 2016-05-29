@@ -1,0 +1,4 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+19:44:49	3340/3340	---MCZ	200	added ('OK')	text/html	date:Sun,%2029%20May%202016%2017:44:38%20GMT	http://wrapbootstrap.com/preview/WB08P8D88	wrapbootstrap.com/preview/WB08P8D88.html	(from )
+19:44:49	244/244	---M--	301	error ('Moved%20Permanently')	text/html	date:Sun,%2029%20May%202016%2017:44:38%20GMT	http://wrapbootstrap.com/robots.txt		(from )
+19:44:50	551/551	---M--	200	added ('OK')	text/plain	etag:%227c05e1-227-507b5096a65aa%22	https://wrapbootstrap.com/robots.txt		(from )
